@@ -3,12 +3,12 @@
 Malware Vulnerability Bedazzler -
 By John Page (aka malvuln/hyp3rlinx) Copyright (C) TM 2022
 
-www.malvuln.com
-twitter.com/malvuln
-twitter.com/hyp3rlinx
-malvuln13@gmail.com
-ISR: ApparitionSec
-hyp3rlinx.altervista.org
+www.malvuln.com <br />
+twitter.com/malvuln <br />
+twitter.com/hyp3rlinx <br />
+malvuln13@gmail.com <br />
+ISR: ApparitionSec <br />
+hyp3rlinx.altervista.org <br />
 
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
