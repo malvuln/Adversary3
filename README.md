@@ -1,4 +1,7 @@
-# Adversary3 - Malware vulnerability intel tool for third-party attackers. By John Page (aka malvuln/hyp3rlinx) Copyright (C) TM 2022
+# Adversary3 - Malware vulnerability intel tool for third-party attackers.
+
+By John Page (aka malvuln/hyp3rlinx) Copyright (C) TM 2022
+
 www.malvuln.com <br />
 twitter.com/malvuln <br />
 twitter.com/hyp3rlinx <br />
