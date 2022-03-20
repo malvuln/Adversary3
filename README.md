@@ -44,6 +44,7 @@ by using Adversary3 you assume and accept all risk implied or otherwise.
 
 ![ScreenShot](adversary3-5.JPG)
 ![ScreenShot](adversary3-11.JPG)
+![ScreenShot](adversary3-10.JPG)
 
 MIT License - Copyright (c) 2022 malvuln
 Permission is hereby granted, free of charge, to any person obtaining a copy
