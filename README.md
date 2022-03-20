@@ -1,8 +1,6 @@
 # Adversary3
 
-Adversary3
-
-Malware Vulnerability Bedazzler - for the Malvuln Project.
+Malware Vulnerability Bedazzler
 By John Page (aka Malvuln/hyp3rlinx) Copyright (C) TM 2022
 
 www.malvuln.com
