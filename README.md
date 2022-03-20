@@ -33,7 +33,6 @@ vulns: Browse vuln categories and advisorys, based on the latest downloaded .Zip
 md5family: Returns malware [FAMILY][MD5] by family, MD5 or *.<br />
 shodan: Crawl the internet for a vuln malware port. Requires a Shodan Enterprise Data license.<br />
 scan: Basic port scan for vuln malware ports using half open SYN packet.<br />
- (Note: scan networks or systems for which you have permission to scan)<br />
 update: Download and update lastest Adversary3 .Zip from github.com/malvuln.<br />
 id: Get MVID, MD5 by MVID, MD5 or wildcard *<br />
 cls: Clears the [CONSOLE] window.<br />
