@@ -25,20 +25,20 @@ Run on Kali: python3 Adversary3.py
 Adversary3 Commands:
 ===================
 repos: Lists repositories, vulns and amount of each vuln class.<br />
-credz: Malware backdoors [PASSWORD] list.
-familia: Search number of [VULNS] for all or specific malware [FAMILY].
-ports: Lists vuln backdoor malware ports.
-md5: Search vulns based on a MD5 malware hash.
-mvid: Search vulns based on a MVID malware advisory.
-vulns: Browse vuln categories and advisorys, based on the latest downloaded .Zip archive.
-md5family: Returns malware [FAMILY][MD5] by family, MD5 or *.
-shodan: Crawl the internet for a vuln malware port. Requires a Shodan Enterprise Data license.
-scan: Basic port scan for vuln malware ports using half open SYN packet.
- (Note: scan networks or systems for which you have permission to scan)
-update: Download and update lastest Adversary3 .Zip from github.com/malvuln.
-id: Get MVID, MD5 by MVID, MD5 or wildcard *
-cls: Clears the [CONSOLE] window.
-about: Explanation of Adversary3.
+credz: Malware backdoors [PASSWORD] list.<br />
+familia: Search number of [VULNS] for all or specific malware [FAMILY].<br />
+ports: Lists vuln backdoor malware ports.<br />
+md5: Search vulns based on a MD5 malware hash.<br />
+mvid: Search vulns based on a MVID malware advisory.<br />
+vulns: Browse vuln categories and advisorys, based on the latest downloaded .Zip archive.<br />
+md5family: Returns malware [FAMILY][MD5] by family, MD5 or *.<br />
+shodan: Crawl the internet for a vuln malware port. Requires a Shodan Enterprise Data license.<br />
+scan: Basic port scan for vuln malware ports using half open SYN packet.<br />
+ (Note: scan networks or systems for which you have permission to scan)<br />
+update: Download and update lastest Adversary3 .Zip from github.com/malvuln.<br />
+id: Get MVID, MD5 by MVID, MD5 or wildcard *<br />
+cls: Clears the [CONSOLE] window.<br />
+about: Explanation of Adversary3.<br />
 
 DISCLAIMER:
 Author is NOT responsible for any damages whatsoever by using this software,
