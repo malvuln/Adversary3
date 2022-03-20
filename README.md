@@ -24,8 +24,8 @@ Run on Kali: python3 Adversary3.py
 
 Adversary3 Commands:
 ===================
-repos: Lists repositories, vulns and amount of each vuln class.
-credz: Malware backdoors [PASSWORD] list.
+repos: Lists repositories, vulns and amount of each vuln class.\n
+credz: Malware backdoors [PASSWORD] list.\n
 familia: Search number of [VULNS] for all or specific malware [FAMILY].
 ports: Lists vuln backdoor malware ports.
 md5: Search vulns based on a MD5 malware hash.
