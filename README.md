@@ -46,4 +46,4 @@ by using Adversary3 you assume and accept all risk implied or otherwise.
 ![ScreenShot](adversary3-5.JPG)
 
 Permission is also explicitly given for insertion in vulnerability databases and similar,
-provided that due credit is given to the author John Page (aka malvuln/hyp3rlinx) Copyright (C)(TM) 2022
+provided that due credit is given to the author John Page (aka hyp3rlinx) (c) 2022
