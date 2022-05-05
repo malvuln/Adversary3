@@ -10,6 +10,8 @@ malvuln13@gmail.com <br />
 ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
+v2.0 added new exploit class 'Code Execution' and Ransomware vulns targeting Conti, REvil, BlackBasta, Lokilocker, WannaCry etc
+
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
 work off the backs of others (virus) flaws.
