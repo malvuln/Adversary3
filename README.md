@@ -10,7 +10,7 @@ malvuln13@gmail.com <br />
 ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
-v2.0 added new exploit class 'Code Execution' and Ransomware vulns targeting Conti, REvil, BlackBasta, Lokilocker, WannaCry etc
+v2.0 added new exploit class 'Code Execution' and Ransomware vulns targeting Conti, REvil, BlackBasta, Lokilocker, WannaCry, Petya, etc
 
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
@@ -45,7 +45,7 @@ DISCLAIMER:
 Author is NOT responsible for any damages whatsoever by using this software,
 by using Adversary3 you assume and accept all risk implied or otherwise.
 
-![ScreenShot](adversary3-5.JPG)
+![ScreenShot](Adversary3_1.JPG)
 
 Permission is also explicitly given for insertion in vulnerability databases and similar,
 provided that due credit is given to the author John Page (aka hyp3rlinx) (c) 2022
