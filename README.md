@@ -10,6 +10,8 @@ malvuln13@gmail.com <br />
 ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
+v3.0 added new exploit class 'Logic Flaw' and many new malware vulns.
+
 v2.0 added new exploit class 'Code Execution' and Ransomware vulns targeting Conti, REvil, Lockbit, BlackBasta, Lokilocker, WannaCry, Petya, etc
 
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
