@@ -1,4 +1,4 @@
-# Adversary3
+# Adversary3 v3.0
 
 Malware vulnerability intel tool for third-party attackers. <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022
