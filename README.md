@@ -4,7 +4,7 @@
 
 
 #SHA256: 913e7bbace4cfdd921e17ac4215f42da2d1dd34b7fb78bfdbc754a0f98eb4148
-Malware vulnerability intel tool for third-party attackers. <br />
+Malware vulnerability intel tool for third-party attackers or defenders. <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022
 
 www.malvuln.com <br />
