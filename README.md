@@ -2,7 +2,7 @@
 
 
 Malware vulnerability intel tool for third-party attackers or defenders. <br />
-By John Page (aka hyp3rlinx) Copyright (C) TM 2022
+By John Page (aka hyp3rlinx) Copyright (C) TM 2022 <br /><br />
 #SHA256: 40E1265EEBA4D28CFD8FCFA836984B58CF69A80DA72F26D59DCF6510CB3E7C43 <br />
 
 www.malvuln.com <br />
