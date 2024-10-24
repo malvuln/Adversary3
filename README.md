@@ -1,7 +1,7 @@
 # Adversary3 
 
 
-#SHA256: 40E1265EEBA4D28CFD8FCFA836984B58CF69A80DA72F26D59DCF6510CB3E7C43
+#SHA256: 40E1265EEBA4D28CFD8FCFA836984B58CF69A80DA72F26D59DCF6510CB3E7C43 <br />
 Malware vulnerability intel tool for third-party attackers or defenders. <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022
 
@@ -16,6 +16,7 @@ hyp3rlinx.altervista.org <br />
 v3.3  <br />
 Added SHA256 command to return the SHA256 hash for a malwares MD5
 Added: 34 new malware vulnerabilities, as of Sept 2024 the grand total is now 700 findings
+Fixed: update command
 
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
