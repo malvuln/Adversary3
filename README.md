@@ -1,22 +1,21 @@
-# Adversary3 v3.1
-
-*** UPDATED fixed Haron ransomware code exec use CRYPTSP.dll  <br />
+# Adversary3 v3.3
 
 
-#SHA256: 913e7bbace4cfdd921e17ac4215f42da2d1dd34b7fb78bfdbc754a0f98eb4148
+#SHA256: A85F3712E78D074243F61103A192E64A532F2D07BC021BF8C606D4275627F23B
 Malware vulnerability intel tool for third-party attackers or defenders. <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022
 
 www.malvuln.com <br />
+x.com/malvuln <br />
 twitter.com/malvuln <br />
 twitter.com/hyp3rlinx <br />
 malvuln13@gmail.com <br />
 ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
-v3.0 added new exploit class 'Logic Flaw' and many new malware vulns.
-
-v2.0 added new exploit class 'Code Execution' and Ransomware vulns targeting Conti, REvil, Lockbit, BlackBasta, Lokilocker, WannaCry, Petya, etc
+v3.3  <br />
+Added SHA256 command to return the SHA256 hash for a malwares MD5
+Added: 34 new malware vulnerabilities, as of Sept 2024 the grand total is now 700 findings
 
 Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
@@ -24,7 +23,7 @@ work off the backs of others (virus) flaws.
 Yes, shot in the dark... but vuln backdoors, trojans and virus exist.
 Redteam? look for infected hosts with unsecured backdoors, BoF or RCE.
 On a system with low privs? look for infections with weak permissions
-you get the idea third-party adversary!
+you get the idea third-party adversary! living off the malware (LOTM)
 
 NOTE: Tested on Windows 10 Python3 / Kali (Python3) <br />
 Requirements: Windows OS > 7 and Python 3 <br />
@@ -46,6 +45,7 @@ update: Download and update lastest Adversary3 .Zip from github.com/malvuln.<br 
 id: Get MVID, MD5 by MVID, MD5 or wildcard *<br />
 cls: Clears the [CONSOLE] window.<br />
 about: Explanation of Adversary3.<br />
+sha256: returns the SHA256 hash for a supplied MD5 <br />
 
 DISCLAIMER:
 Author is NOT responsible for any damages whatsoever by using this software,
