@@ -1,7 +1,7 @@
 # Adversary3 
 
 
-Malware vulnerability intel tool for third-party attackers (LOM) or defenders. <br />
+Malware vulnerability intel tool for third-party attackers (LOM). <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022 <br /><br />
 SHA256: A29BDC7B67E34FEA01A941942447646238BF5818A96E8DC40B496CCC4EB32540 <br />
 
