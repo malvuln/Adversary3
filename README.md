@@ -13,7 +13,7 @@ malvuln13@gmail.com <br />
 ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
-v3.32 <br />
+Adversary3 update v3.32 <br />
 Added: 34 new malware vulnerabilities, as of Sept 2024 the grand total is now 700 findings <br />
 Added SHA256 command to return the SHA256 hash for a malwares MD5 <br />
 Fixed: update command
