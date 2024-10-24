@@ -1,7 +1,7 @@
 # Adversary3 
 
 
-#SHA256: A85F3712E78D074243F61103A192E64A532F2D07BC021BF8C606D4275627F23B
+#SHA256: 40E1265EEBA4D28CFD8FCFA836984B58CF69A80DA72F26D59DCF6510CB3E7C43
 Malware vulnerability intel tool for third-party attackers or defenders. <br />
 By John Page (aka hyp3rlinx) Copyright (C) TM 2022
 
