@@ -54,7 +54,6 @@ by using Adversary3 you assume and accept all risk implied or otherwise. <br />
 
 ![Adversary3_v3 32](https://github.com/user-attachments/assets/0cf9c691-f52d-4c04-b6ce-4bb4fb00e0a6)
 <br />
-![ScreenShot](Adversary3_1.JPG)
 
 Permission is also explicitly given for insertion in vulnerability databases and similar,
 provided that due credit is given to the author John Page (aka hyp3rlinx) (c) 2022
