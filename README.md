@@ -14,11 +14,11 @@ ISR: ApparitionSec <br />
 hyp3rlinx.altervista.org <br />
 
 v3.32 <br />
-Added SHA256 command to return the SHA256 hash for a malwares MD5 <br />
 Added: 34 new malware vulnerabilities, as of Sept 2024 the grand total is now 700 findings <br />
+Added SHA256 command to return the SHA256 hash for a malwares MD5 <br />
 Fixed: update command
 
-Adversary3.py navigates the vast www.malvuln.com malware vulnerability dataset.
+Adversary3.py navigates the vast www.malvuln.com malware and C2 panel vulnerability dataset.
 Need a way in but no 0day?, choose the path of least resistance and
 work off the backs of others (virus) flaws.
 Yes, shot in the dark... but vuln backdoors, trojans and virus exist.
