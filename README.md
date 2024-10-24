@@ -24,7 +24,7 @@ work off the backs of others (virus) flaws.
 Yes, shot in the dark... but vuln backdoors, trojans and virus exist.
 Redteam? look for infected hosts with unsecured backdoors, BoF or RCE.
 On a system with low privs? look for infections with weak permissions
-you get the idea third-party adversary! living off the malware (LOTM)
+you get the idea third-party adversary! living off malware (LOM)
 
 NOTE: Tested on Windows 10 Python3 / Kali (Python3) <br />
 Requirements: Windows OS > 7 and Python 3 <br />
